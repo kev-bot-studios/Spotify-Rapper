@@ -26,7 +26,7 @@
 
 #quote1 {
   width: 24%;
-  font-family: cursive;
+  font-family: Brush Script MT, Brush Script Std, cursive;
   vertical-align: middle;
   align-items: center;
   float: left;
@@ -45,7 +45,7 @@
 
 #quote2 {
   width: 24%;
-  font-family: cursive;
+  font-family: Brush Script MT, Brush Script Std, cursive;
   float: left;
   vertical-align: top;
   text-align: center;

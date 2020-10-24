@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
-site.addsitedir(os.path.relpath('..//DontUpload'))
+site.addsitedir(os.path.relpath('..//..//DontUpload'))
 import spotify_creds as sc
 
 

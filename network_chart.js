@@ -28,7 +28,7 @@ anychart.onDocumentReady(function () {
 
       // set default zoom
       chart.zoom(
-        .95,
+        .85,
         chart.getPixelBounds().width / 2,
         chart.getPixelBounds().height / 2
       );

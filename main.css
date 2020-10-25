@@ -6,63 +6,58 @@
 }
 
 #SubTitle {
+  height: 5%;
   font-family: Arial, Helvetica, sans-serif;
-  color: black;
   text-align: center;
-  align-items: center;
-  margin-top: 30px;
-  font-size: 17px;
+  margin-top: 2.0rem;
+  font-size: 1.1rem;
 }
 
 #Upper {
-  display: inline-block;
+  height: 80%;
+  display: flex;
+  justify-content: space-between;
 }
 
 #Lower {
   display: flex;
   font-family: Arial, Helvetica, sans-serif;
-  color: black;
   justify-content: center;
-  font-size: 13px;
+  font-size: .7rem;
 }
 
 #quote1 {
   width: 24%;
-  font-family: cursive, Open Sans;
-  vertical-align: middle;
-  align-items: center;
-  float: left;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 3.0rem;
 }
 
 #container {
   width: 50%;
-  height: 80%;
-  margin: 0;
-  padding: 0;
-  float: left;
-  vertical-align: top;
+  height: 100%;
 }
 
 #quote2 {
   width: 24%;
-  font-family: cursive, Open Sans;
-  float: left;
-  vertical-align: top;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  margin-top: 50px;
+  margin-top: 3.0rem;
 }
 
 br {
   display: block;
   content: "";
-  margin-bottom: 30px;
-  margin-top: 30px;
+  margin-bottom: 1.75rem;
+  margin-top: 1.75rem;
 }
 
 a {
   color: blue;
+}
+
+p {
+  font-size: 1.0rem;
 }
 
 .anychart-credits {

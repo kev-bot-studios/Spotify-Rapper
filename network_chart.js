@@ -33,7 +33,7 @@ anychart.onDocumentReady(function () {
         chart.getPixelBounds().height / 2
       );
       
-      //
+      // disable tooltip
       chart.tooltip(false);  
 
       // disable drag and drop
